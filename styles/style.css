@@ -23,7 +23,6 @@ header p {
 }
 .player-section {
   min-height: 100vh;
-  display: grid;
   grid-template-columns: repeat(4, 1fr);
   justify-items: center;
   padding: 20px;
